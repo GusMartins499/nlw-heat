@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Faça uma copia do arquivo `.env.example` para `.env` e preencha com as suas credenciais do GitHub;
 - Instale as dependências com `yarn`;
 - Executa as migrations com `yarn prisma migrate dev`;
+- Pode ser necessário executar o comando `yarn prisma generate`;
 - Inicie o servidor com `yarn dev`;
 
 ## 🚀 Frontend
